@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Reckhammer/FlixsterPlus/blob/master/gif/AppWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -41,7 +41,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had some trouble understanding the gson and jSon libraries and the use of their functions, and the documentation provided did not help me much. The documentation was also for Java which I feel like there should also be a Kotlin version for these projects. I went to the course's TA for some help with my problem trying to access the database with the AsyncHTTP client. As soon as I learned how to get the connection, I almost instantly finished the project.
 
 ## License
 
